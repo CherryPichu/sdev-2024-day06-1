@@ -1,0 +1,31 @@
+04/08/2024-02:27:26.620654  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 172.17.0.8:37284 -> 175.116.97.147:80
+04/08/2024-02:27:26.945655  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 172.17.0.8:37284 -> 175.116.97.147:80
+04/08/2024-02:27:27.155633  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 172.17.0.8:37284 -> 175.116.97.147:80
+04/08/2024-02:27:27.705488  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 172.17.0.8:37284 -> 175.116.97.147:80
+04/08/2024-04:31:23.069527  [**] [1:10004:1] naver.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:45396 -> 23.40.44.189:443
+04/08/2024-04:32:10.416252  [**] [1:10004:1] naver.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:43522 -> 23.40.44.189:443
+04/08/2024-04:32:53.074535  [**] [1:10008:1] tistory.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:53950 -> 121.53.105.234:443
+04/08/2024-04:32:53.074535  [**] [1:10019:1] tistory.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:53950 -> 121.53.105.234:443
+04/08/2024-04:32:53.155428  [**] [1:10008:1] tistory.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:55732 -> 211.249.221.185:443
+04/08/2024-04:32:53.155428  [**] [1:10019:1] tistory.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:55732 -> 211.249.221.185:443
+04/08/2024-04:32:53.320336  [**] [1:10008:1] tistory.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:55744 -> 211.249.221.185:443
+04/08/2024-04:32:53.320336  [**] [1:10019:1] tistory.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:55744 -> 211.249.221.185:443
+04/08/2024-04:43:36.091668  [**] [1:10005:1] nate.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:39140 -> 120.50.131.112:443
+04/08/2024-04:43:48.746879  [**] [1:10005:1] nate.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:38068 -> 120.50.131.112:443
+04/08/2024-04:43:53.708239  [**] [1:10005:1] nate.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:38080 -> 120.50.131.112:443
+04/08/2024-04:44:12.243142  [**] [1:10020:1] 11st.co.kr access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:46270 -> 113.217.247.90:443
+04/08/2024-04:44:25.612924  [**] [1:10017:1] google.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:37534 -> 172.217.31.14:443
+04/08/2024-04:44:25.862717  [**] [1:10017:1] google.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:41652 -> 142.250.66.100:443
+04/08/2024-04:44:31.943309  [**] [1:10014:1] auction.co.kr access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:49554 -> 183.111.140.234:443
+04/08/2024-04:44:42.463433  [**] [1:10013:1] namu.wiki access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:46284 -> 104.16.218.109:443
+04/08/2024-04:44:49.309172  [**] [1:10009:1] base64decode.org access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:42304 -> 139.99.62.156:443
+04/08/2024-04:44:49.737800  [**] [1:10009:1] base64decode.org access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:42314 -> 139.99.62.156:443
+04/08/2024-04:44:59.401679  [**] [1:10015:1] linkedin.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:52244 -> 13.107.42.14:443
+04/08/2024-04:44:59.583799  [**] [1:10015:1] linkedin.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:52250 -> 13.107.42.14:443
+04/08/2024-04:45:06.937867  [**] [1:10012:1] youtube.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:37604 -> 172.217.27.46:443
+04/08/2024-04:45:07.220369  [**] [1:10012:1] youtube.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:53452 -> 172.217.24.78:443
+04/08/2024-04:45:21.746408  [**] [1:10007:1] chat.openai.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:33386 -> 172.64.150.28:443
+04/08/2024-04:45:32.708460  [**] [1:10007:1] chat.openai.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:44322 -> 172.64.150.28:443
+04/08/2024-04:45:37.148461  [**] [1:10007:1] chat.openai.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:54374 -> 104.18.37.228:443
+04/08/2024-04:45:42.172008  [**] [1:10007:1] chat.openai.com access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:57302 -> 172.64.150.28:443
+04/08/2024-04:46:13.781595  [**] [1:10011:1] hallym.ac.kr access [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.17.0.8:45164 -> 210.115.225.177:443
